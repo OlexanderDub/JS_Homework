@@ -1,0 +1,15 @@
+const regex = /[^aA\s]{6,}/g;
+
+const testWords = [
+  "Wonderful",
+  "Joyful",
+  "Happiness",
+  "Time",
+  "Task",
+  "Apple"
+];
+
+testWords.forEach(word => {
+  const match = word.match(regex);
+  console.log(`${word.padEnd(10)} -> ${match ? match[0] : 'Не знайдено'}`);
+});
