@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1791715552654,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Thread Group 1-1,text,false,,822,0,1,1,null,0,0,0
+1791715552656,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Thread Group 1-1,text,false,,822,0,1,1,null,0,0,0
+1791715552657,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Thread Group 1-1,text,false,,822,0,1,1,null,0,0,0
+1791715552657,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Thread Group 1-1,text,false,,822,0,1,1,null,0,0,0
+1791715552658,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Thread Group 1-1,text,false,,822,0,1,1,null,0,0,0
