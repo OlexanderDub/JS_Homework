@@ -1,0 +1,3 @@
+HighLoadResult/*.jtl
+*.jtl
+jmeter.log
